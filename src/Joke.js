@@ -23,7 +23,7 @@ export default class Joke extends React.Component {
                 <Card>
                     <CardBody>
                         <CardTitle>{setup}</CardTitle>
-                        <Button color="primary" onClick={this.toggle}>Laugh</Button>
+                        <Button color="secondary" onClick={this.toggle}>Laugh</Button>
                         <Fade in={this.state.fadeIn} className='my-2'>
                             <CardText>{punchline}</CardText>
                         </Fade>
