@@ -1,4 +1,4 @@
-For a guide to building this app step by step, go here: https://medium.com/@tom_10454/build-your-first-react-single-page-app-ad341f86b920?source=friends_link&sk=79ae7d443780f34af25585ddbb5a2ce5
+For a guide to building this app step by step, read this [Medium article] (https://medium.com/@tom_10454/build-your-first-react-single-page-app-ad341f86b920?source=friends_link&sk=79ae7d443780f34af25585ddbb5a2ce5)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
